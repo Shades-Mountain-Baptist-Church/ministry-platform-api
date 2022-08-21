@@ -11,4 +11,5 @@ return array(
 "MP_CLIENT_ID" => "",
 "MP_CLIENT_SECRET" => "",
 "MP_OAUTH_REDIRECT_URL" => "",
-)
+"MP_ACCOUNT_NAME" => "",
+);
