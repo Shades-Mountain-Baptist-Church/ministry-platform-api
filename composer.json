@@ -13,8 +13,8 @@
         "php": "^8.0",
         "laravel/framework": "^9.0",
         "guzzlehttp/guzzle": "~7.0",
-        "illuminate/cache": "^8.0",
-        "illuminate/filesystem": "^8.0",
+        "illuminate/cache": "^9.0",
+        "illuminate/filesystem": "^9.0",
         "illuminate/container": "^9.0",
         "vlucas/phpdotenv": "^5.0"
     },
